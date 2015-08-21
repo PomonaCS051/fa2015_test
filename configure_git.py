@@ -5,6 +5,7 @@ import os
 first = raw_input("Enter your first name: ")
 last  = raw_input("Enter your last name: ")
 email = raw_input("Enter the email configured to your GitHub Account: ")
+name = raw_input("Enter your GitHub username: ")
 
 # the remote that points the students sandboxed repository
 # should be "https://github.com/PomonaCS051/cecil-sagehen_fa2015"
