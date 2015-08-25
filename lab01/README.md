@@ -1,4 +1,4 @@
-Lab 00 Instructions -- Hello, World!
+Lab 01 Instructions -- Hello, World! (Again)
 ========
 
 This is a sample lab to exemplify the workflow of a traditional CS051 lab
