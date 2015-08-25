@@ -26,7 +26,7 @@ os.system("git config user.email " + email)
 # the designed architecture
 
 # allows for students to pull in the new assignments with `git starterCode`
-os.system("git config alias.starterCode \"!sh -c 'git checkout master; git pull starter-code '\"")
+os.system("git config alias.starterCode \"!sh -c 'git checkout master; git pull starter-code master '\"")
 
 # allows students to begin working on the new assignment on a new
 # branch with `git newLab labXX`
